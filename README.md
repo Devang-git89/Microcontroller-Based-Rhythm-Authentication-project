@@ -30,7 +30,7 @@ Pipeline:
 - Gap ratio calculation
 - Pattern matching against stored ratio list between decided rythm
 
-
+please watch vedio demo of my project linked below:
 https://youtu.be/kSgmm0SC4Us
 
 
