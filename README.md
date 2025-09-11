@@ -1,5 +1,4 @@
 #Arduino-Based-Rhythm-Authentication-System
-Microcontroller-Based Rhythm Authentication System
 
 Overview
 RhythmLock is an Arduino Leonardo project that authenticates users based on unique clap patterns.
