@@ -4,7 +4,7 @@ Microcontroller-Based Rhythm Authentication System
 Overview
 RhythmLock is an Arduino Leonardo project that authenticates users based on unique clap patterns.
 The system analyzes the ratios between gaps in claps, making it tempo-invariant.
-It can work with any user-defined clap phrase, as long as the pattern has been tested for gaps and ration and hardcoded with reliable thresholds to minimize false or postive or negatives
+It can work with any user-defined clap phrase, as long as the pattern has been tested for gaps and ration and hardcoded with reliable thresholds to minimize false or postives or negatives
 The system provides LED/LCD feedback and unlock a computer via USB.
 
 Features
