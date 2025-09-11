@@ -25,10 +25,9 @@ Hardware
 
 Written in C++ for Arduino IDE
 Pipeline:
-- Clap detection using hysteresis thresholds
 - Merge window for handling many datapoints for one clap
 - Gap ratio calculation
-- Pattern matching against stored ratio list between decided rythm
+- Pattern matching against stored and tested ratio list for decided rythm
 
 please watch vedio demo of my project linked below:
 https://youtu.be/kSgmm0SC4Us
